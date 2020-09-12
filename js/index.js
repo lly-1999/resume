@@ -19,7 +19,7 @@
 }();
 
 if (os.isAndroid || os.isPhone) {
-  alert("手机")
+  alert("手机浏览效果差")
 } else if (os.isTablet) {
     alert("平板")
 } else if(os.isPc) {
